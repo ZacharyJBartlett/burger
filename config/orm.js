@@ -10,3 +10,5 @@ var connect = require("connection.js");
 // updateOne();
 
 // export orm object into module.exports
+
+module.exports = orm;
